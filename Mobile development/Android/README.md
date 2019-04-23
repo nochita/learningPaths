@@ -139,7 +139,7 @@
 	- Architecture layers
 - Widgets
 	- Statics and dynamics
-- Crashlytics (o similar)
+- Crashlytics (or similar)
 	- Basic concepts
 # Engineer 3
 

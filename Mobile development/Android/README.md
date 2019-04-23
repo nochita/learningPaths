@@ -1,7 +1,7 @@
 # Engineer 1
 
 - ViewGroups
-	- LinearLayout, ConstraintLayout, ScrollView  
+	- RelativeLayout(deprecated), LinearLayout, ConstraintLayout, ScrollView  
 	- Basic properties
 - Views
 	- Types: ImageView, Button, TextView, EditText, TextInputEditText.  
@@ -139,7 +139,8 @@
 	- Architecture layers
 - Widgets
 	- Statics and dynamics
-
+- Crashlytics (o similar)
+	- Basic concepts
 # Engineer 3
 
 - CustomViews
@@ -250,5 +251,3 @@
 	- RxJava
 - Third Party Libraries
 	- Implementation
-- Crashlytics
-	- Basic concepts
